@@ -240,4 +240,4 @@ This repository serves as the official landing page for Therion. The software is
 **Get the most recent version of Therion today!**
 
 ---
-**Last updated:** 2026-09-27 20:59:15 UTC
+**Last updated:** 2026-09-27 23:45:30 UTC
